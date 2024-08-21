@@ -1,7 +1,7 @@
 mixonset
 # Mixonset
 
-> 
+> Your AI DJ app mixes your music from Spotify Premium, Apple Music, SoundCloud Free, TIDAL and your local library
 
 Based on "Mixonset" at https://www.mixonset.com/
 
